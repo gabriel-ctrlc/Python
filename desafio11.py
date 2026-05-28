@@ -1,0 +1,1 @@
+#faça um programa que leia a largura e altura de uma parada em metros, calcule a sua area e a quantidade tinta necessaria para pinta-la, sabendo que cada litro de tinta, pinta uma area de 2m²
