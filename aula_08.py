@@ -13,6 +13,10 @@
 # raiz = math.sqrt(num)
 # print('A raiz de {} é igual a {:.2f}'.format(num, math.floor(raiz)))
 
-import random
-num1 = random.random()
-print(num1)
+# import random
+# num1 = random.random()
+# print(num1)
+
+# import random
+# num1 = random.randint(1, 10)
+# print(num1)
