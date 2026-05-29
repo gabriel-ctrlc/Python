@@ -1,0 +1,1 @@
+#faça um programa que leia um programa que leia o comprimento do cateto oposto e do cateto adjacentede um triangulo retangulo, calcule e mostre o comprimento da hipotenusa.

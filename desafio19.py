@@ -1,0 +1,1 @@
+#um professor quer sortear um dos seus quatro alunos para apagar o quadro. faça um programa que ajude ele, lendo o nome delas e escrevendo o nome escolhido
