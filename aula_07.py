@@ -2,7 +2,7 @@
 #1 () parenteses
 #2 ** potencia
 #3 * / // % multiplicação, divisão, divisão inteira, resto da divisão
-#4 + * multiplicação, subtração 
+#4 + - multiplicação, subtração 
 #Exemplo
 
 #print(5 + 3 * 2)
@@ -15,7 +15,7 @@
 #print(122%3)
 #print(4**3)
 #print(pow(4,3))
-#print(81**(1/2))
+#print(81**(1/2)) Raiz quadrada
 #print(25**(1/2))
 #print(127**(1/3))
 #print('oi' * 5)
