@@ -1,5 +1,5 @@
 # math       #import math    #from math import sqrt, ceil
-# ceil    math.ceil arredonda para cima
+# ceil    math.ceil arredonda para cima 
 # floor   math.floor arredond apara baixo
 # trunc
 # pow
