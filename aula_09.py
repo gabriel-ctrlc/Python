@@ -32,7 +32,7 @@ frase2.lstrip() #remove os espaços da esquerda l de left(esquerda)
 frase.split() #ele cria divisão entre os espaços, onde as palavras recebe indexação nova, ele divide uma string em uma lista, onde cada elemento é separado pelo seu splitador
 
 #Junção
-'-'.join(frase) #junta todos elementod de frase e utiliza '-' como separador podendo utilizar espaço ou outro caracter para junção
+'-'.join(frase) #junta todos elementos de frase e utiliza '-' como separador podendo utilizar espaço ou outro caracter para junção
 
 print(frase[:13])
 
