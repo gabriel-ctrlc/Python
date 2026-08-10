@@ -10,6 +10,6 @@ nome = nome.split()
 primeira = nome[0]
 ultima = nome[-1]
 
-print('Muito prazer em te conhecer!',input)
+print('Muito prazer em te conhecer!')
 print('O primeiro nome é ',primeira)
 print('O ultimo nome é ',ultima)
