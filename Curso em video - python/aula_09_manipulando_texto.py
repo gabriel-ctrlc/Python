@@ -15,6 +15,8 @@ frase.count('o') #contagem da quantidade de o minusculo
 frase.count('o',0,13) #ele considera do 0 até 12 não incluindo o 13 tendo somente uma letra 'o'
 frase.find('deo') #ele vai me dizer quantas vezes encontrou 'deo' ele diz em que momento começou o 'deo' nesse caso foi na posição 11
 frase.find('android') #ele retorna o valor -1, significa que essa função não encontrou 'android'
+frase.rfind('b') 
+frase.rindex('a') #Localizam a última ocorrência do pedaço de texto (buscando de trás para frente).
 'Curso' in frase #ele vai escrever na tela se o valor for encontrado, retornando para mim true
 
 #Transformação: Uma linha de string é imutavel mas é possivel mexer nelas através de metodos
