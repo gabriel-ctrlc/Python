@@ -3,6 +3,7 @@
 
 distancia = float(input('Digite quantos KM voce ira viajar: '))
  
+#preco = distancia * 0.50 if distancia <= 200 else distancia * 0.45 // operador ternario ou if in line
 
 if distancia >= 200:
     preco = distancia * 0.45
