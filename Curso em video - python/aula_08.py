@@ -1,8 +1,8 @@
 # math       #import math    #from math import sqrt, ceil
-# ceil    math.ceil arredonda para cima 
-# floor   math.floor arredond apara baixo
-# trunc
-# pow
+# ceil    math.ceil(x) arredonda para cima 
+# floor   math.floor(x) arredonda apara baixo
+# trunc   math.trunc(x) parte inteira de x
+# pow     math.pow(x, y) x elevado a potencia y
 # sqrt   calcula raiz quadrada mais facil
 # factorial
 # Para estudar bibliotecas https://docs.python.org/3.13/library/index.html
